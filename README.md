@@ -7,3 +7,5 @@
 [IBM - Data Analysis with Python](https://www.coursera.org/verify/JJ27BE7W9WDL)
 
 [IBM - Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/8XDM2TCSBLY2)
+
+[IBM - Data Visualization with Python](https://www.coursera.org/verify/78THMSDFWV8Y)
