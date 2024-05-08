@@ -1,9 +1,9 @@
 ## Courses and Certifications:
 
-[Johns Hopkins University - Business Analytics with Excel Elementary to Advenced](https://github.com/rusinmt/courses/blob/main/Business%20Analytics%20with%20Excel%20Elementary%20to%20Advenced.pdf)
+[Johns Hopkins University - Business Analytics with Excel Elementary to Advenced](https://www.coursera.org/verify/Z67PBZW9NR2L)
 
-[The Hong Kong University of Science and Technology - Python and Statistics for Financial Analysis](https://github.com/rusinmt/courses/blob/main/Python%20and%20Statistics%20for%20Financial%20Analysis.pdf)
+[The Hong Kong University of Science and Technology - Python and Statistics for Financial Analysis](https://www.coursera.org/verify/3SG6V4882WUN)
 
-[IBM - Data Analysis with Python](https://github.com/rusinmt/courses/blob/main/Data%20Analysis%20with%20Python%20IBM.pdf)
+[IBM - Data Analysis with Python](https://www.coursera.org/verify/JJ27BE7W9WDL)
 
 [IBM - Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/8XDM2TCSBLY2)
