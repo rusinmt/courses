@@ -10,4 +10,4 @@
 
 [IBM Data Visualization with Python](https://www.coursera.org/verify/78THMSDFWV8Y)
 
-[IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-cert/F3ZSUGMPUJFB)
+[IBM Data Engineering Professional Certificate](https://www.coursera.org/verify/professional-cert/F3ZSUGMPUJFB)
