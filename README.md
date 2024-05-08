@@ -6,4 +6,4 @@
 
 [IBM - Data Analysis with Python](https://github.com/rusinmt/courses/blob/main/Data%20Analysis%20with%20Python%20IBM.pdf)
 
-
+[IBM - Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/8XDM2TCSBLY2)
