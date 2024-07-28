@@ -11,3 +11,5 @@
 [IBM Data Visualization with Python](https://www.coursera.org/verify/78THMSDFWV8Y)
 
 [IBM Data Engineering Professional Certificate](https://www.coursera.org/verify/professional-cert/F3ZSUGMPUJFB)
+
+[Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/MateuszRusin-4727/C517C463DCF4DA28?sharingId=3ABEA14210694C44)
